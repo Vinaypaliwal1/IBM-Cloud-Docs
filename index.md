@@ -1,5 +1,4 @@
 ---
-year: 2019
 layout: demo_template
 ---
 
